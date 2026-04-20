@@ -29,7 +29,7 @@ Former psychology student converted to Computer Science Students to gain a large
 
 ## Projects:
 
-# Pressions sous Pression 
+# Pressions sous Pression: 
 - A Game made in 48h for a GameJam
 https://github.com/jolyne-mangeot/JamAcademy2026
 
