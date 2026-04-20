@@ -1,5 +1,8 @@
 ## Status: Student
 
+## Short Description:
+Former psychology student converted to Computer Science Students to gain a large and various panel of skills for personal and professional uses and projects.
+
 ## About me:
 
 - I'm learning to code and gain skills in multiple programming languages in hope to one day be able to work on video games.
@@ -7,11 +10,30 @@
  - In my spare time i try to deepen my understanding of tools that can help me make games like Blender, Godot or Unity for example.
 
 
-- Interest: Roguelike, Metroidvania, Point and clicks, Visual Novel, MMORPG, JRPG, Soulslike
+- Interest: Roguelike, Metroidvania, Point and clicks, Visual Novel, MMORPG, JRPG, Soulslike, etc ...
+
+## Skills:
+
+- C
+- Python
+- Unity
+- Blender
+- Godot
+- Linux (Fedora/Debian)
+- Gnome/ KDE
+- Git
+- VSCode/Vim/Nano
+- Makefile
+- Shell
+- C++/C# (still learning)
 
 ## Projects:
 
+# Pressions sous Pression 
+- A Game made in 48h for a GameJam
 https://github.com/jolyne-mangeot/JamAcademy2026
+
+# Many more to come !
     
     
   
