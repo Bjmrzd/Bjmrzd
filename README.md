@@ -7,10 +7,10 @@ Former psychology student converted to Computer Science Students to gain a large
 
 - I'm learning to code and gain skills in multiple programming languages in hope to one day be able to work on video games.
 - I like to think about game design and gameplay ideas for possible games of different genre and exploring different settings as well as writing stories.
- - In my spare time i try to deepen my understanding of tools that can help me make games like Blender, Godot or Unity for example.
+- In my spare time i try to deepen my understanding of tools that can help me make games like Blender, Godot or Unity for example.
 
 
-- Interest: Roguelike, Metroidvania, Point and clicks, Visual Novel, MMORPG, JRPG, Soulslike, etc ...
+- Interest: Drawing, Writing, Reading, Playing video games, Rating Series and Movies and Improving my knowledge 
 
 ## Skills:
 
@@ -29,7 +29,7 @@ Former psychology student converted to Computer Science Students to gain a large
 
 ## Projects:
 
-Pressions sous Pression 
+# Pressions sous Pression 
 - A Game made in 48h for a GameJam
 https://github.com/jolyne-mangeot/JamAcademy2026
 
